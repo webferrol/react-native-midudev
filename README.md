@@ -1,6 +1,14 @@
 # REACT NATIVE with Midu
 
 - [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY)
+- [Transcripción del vídeo](#transcripción-del-vídeo)
+
+__Tabla de contenidos__
+
+- Linter
+  - [Instalación](#instalación)
+  - [Configuración](#configuración)
+  - [Transcripción del vídeo](#transcripción-del-vídeo)
 
 ## Linter
 
@@ -9,6 +17,7 @@
 ```sh
 npm install --save-dev eslint babel-eslint eslint-config-standard eslint-config-standard-jsx eslint-config-standard-react eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-react
 ```
+
 
 ### Configuración
 
@@ -54,6 +63,8 @@ module.exports = {
   }
 }
 ```
+
+[Inicio](#react-native-with-midu)
 
 ## Transcripción del vídeo
 
@@ -146,3 +157,5 @@ module.exports = {
 03:26:45 Usando graphQL en el custom hook
 
 03:30:00 Preguntas
+
+[Inicio](#react-native-with-midu)
